@@ -1,0 +1,10 @@
+pandas
+numpy
+faker
+boto3
+python-dotenv
+argparse
+scikit-learn
+ipykernel
+matplotlib
+seaborn

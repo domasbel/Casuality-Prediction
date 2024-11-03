@@ -1,0 +1,1001 @@
+age,CRB,creatinine,hematocrit,sex,diagnosis
+38,1,0.77,44.8,Female,Hemiplegia; Dysphagia
+59,0,0.95,45.6,Male,Dysphagia; Stroke
+76,1,0.92,41.3,Female,Hemiplegia
+89,1,0.62,40.4,Female,Dysphagia; Stroke
+51,0,1.13,42.6,Male,Stroke; Headache; Hemiplegia
+66,1,0.72,40.9,Female,Insultus ischaemicus cerebellum sin
+69,3,1.0,43.4,Female,Insultus ischaemicus cerebellum sin; Headache
+24,0,0.96,41.2,Female,Headache; Seizure
+8,0,0.74,37.0,Female,Reinsultus ischaemicus cerebri in b. ACM sin
+43,2,1.19,48.2,Male,Insultus ischaemicus cerebellum sin
+44,3,0.77,39.2,Male,Stroke; transformatio haemorrhagica
+62,1,0.72,37.4,Female,Insultus ischaemicus cerebellum sin; Reinsultus ischaemicus cerebri in b. ACM sin
+33,2,0.88,36.2,Female,Stroke; Coma; Aphasia
+63,1,0.94,46.2,Male,Dysphagia; transformatio haemorrhagica
+71,2,0.96,38.9,Male,Ataxia; Aphasia
+64,1,1.19,41.7,Male,Dysphagia; Stroke
+0,1,1.28,41.8,Male,Coma; Aphasia; Insultus ischaemicus cerebellum sin
+30,0,0.83,42.4,Male,Insultus ischaemicus cerebellum sin; Dysphagia; Coma
+73,3,1.16,43.0,Male,Insultus ischaemicus cerebellum sin; Migraine
+64,0,0.69,40.5,Female,Ataxia
+40,3,1.14,40.2,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+92,0,0.76,42.0,Male,Ataxia; Migraine; Reinsultus ischaemicus cerebri in b. ACM sin
+68,1,0.66,38.9,Female,Coma
+92,2,1.28,38.6,Male,Coma
+49,2,1.01,45.4,Male,Ataxia; Dysphagia
+65,3,0.8,43.7,Female,transformatio haemorrhagica; Insultus ischaemicus cerebellum sin
+44,0,1.0,47.3,Male,Insultus ischaemicus cerebellum sin; Ataxia; Dysphagia
+43,0,0.75,48.2,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Stroke
+56,2,0.75,42.7,Female,Hemiplegia; Aphasia; Coma
+68,3,0.86,42.0,Female,transformatio haemorrhagica
+65,0,0.94,38.4,Female,Headache
+25,0,0.84,39.4,Male,transformatio haemorrhagica; Aphasia; Ataxia
+28,2,0.78,44.6,Female,Ataxia; Seizure; Aphasia
+36,2,0.94,46.2,Male,Headache
+62,2,0.71,43.8,Female,Insultus ischaemicus cerebellum sin; Coma; Dysphagia
+68,2,1.27,47.2,Male,Stroke; Migraine
+41,1,0.99,41.6,Female,Insultus ischaemicus cerebellum sin; Reinsultus ischaemicus cerebri in b. ACM sin
+42,0,0.68,39.0,Female,transformatio haemorrhagica; Coma; Dysphagia
+34,1,0.91,45.2,Male,Insultus ischaemicus cerebellum sin; Headache
+35,3,1.1,44.0,Male,Coma
+59,2,0.74,39.6,Female,Migraine; Coma
+36,1,0.62,36.1,Female,Stroke; Dysphagia
+33,3,0.72,38.2,Female,Insultus ischaemicus cerebellum sin; Hemiplegia; Reinsultus ischaemicus cerebri in b. ACM sin
+59,2,0.82,44.9,Male,Ataxia; Seizure; Headache
+29,2,1.21,43.9,Male,Headache; Aphasia
+40,0,0.94,36.8,Female,Headache; Dysphagia; Insultus ischaemicus cerebellum sin
+33,1,0.78,39.8,Male,Hemiplegia
+62,1,0.71,40.7,Female,Aphasia; Ataxia
+59,3,0.68,38.1,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Ataxia
+52,0,0.92,36.6,Female,Hemiplegia; Aphasia; Headache
+66,0,1.17,43.8,Male,Seizure; Insultus ischaemicus cerebellum sin
+42,1,1.11,41.6,Male,Hemiplegia
+31,2,0.83,38.6,Female,Migraine
+32,2,0.9,41.2,Female,transformatio haemorrhagica; Coma; Hemiplegia
+58,0,1.12,47.5,Male,Aphasia; Ataxia; Insultus ischaemicus cerebellum sin
+25,3,1.16,38.5,Male,Aphasia; transformatio haemorrhagica
+59,1,0.87,45.3,Male,Ataxia; Reinsultus ischaemicus cerebri in b. ACM sin; Aphasia
+45,1,0.82,48.3,Male,Stroke
+75,0,0.6,41.2,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Aphasia; Insultus ischaemicus cerebellum sin
+64,3,0.93,45.2,Male,Ataxia; Stroke
+38,1,0.96,38.9,Female,Aphasia
+53,1,1.16,41.3,Male,Dysphagia
+49,3,0.97,39.7,Female,transformatio haemorrhagica; Aphasia; Headache
+46,3,1.14,41.5,Male,Seizure
+26,1,1.11,47.2,Male,Headache; Reinsultus ischaemicus cerebri in b. ACM sin; Seizure
+51,2,1.34,45.4,Male,Stroke
+42,2,1.27,48.3,Male,Insultus ischaemicus cerebellum sin; transformatio haemorrhagica; Migraine
+61,1,1.0,35.6,Female,Coma; Reinsultus ischaemicus cerebri in b. ACM sin
+73,2,0.62,44.5,Female,Stroke; Insultus ischaemicus cerebellum sin; Headache
+58,0,0.61,39.7,Female,Stroke
+66,0,0.6,44.5,Female,Headache
+68,1,0.83,38.8,Female,Ataxia; Stroke
+43,3,0.86,41.4,Male,Stroke; Seizure
+10,1,0.94,41.1,Male,Insultus ischaemicus cerebellum sin; Ataxia
+60,3,0.74,44.8,Male,Stroke; Ataxia; Headache
+70,0,0.86,39.1,Female,Migraine
+8,1,0.79,37.4,Female,Seizure
+44,3,1.2,39.8,Male,Ataxia
+0,0,1.29,38.7,Male,Migraine; Seizure
+61,3,1.16,41.9,Male,Coma
+66,1,1.26,40.4,Male,Coma
+24,3,0.95,41.5,Male,Hemiplegia
+53,3,0.77,44.2,Male,Dysphagia
+26,0,0.64,40.0,Female,transformatio haemorrhagica; Aphasia
+31,3,0.91,36.6,Female,Aphasia
+79,3,0.96,36.1,Female,transformatio haemorrhagica; Seizure
+45,0,0.88,43.0,Male,Stroke; Hemiplegia; transformatio haemorrhagica
+43,0,0.93,42.8,Female,Dysphagia
+67,2,0.81,38.4,Female,Ataxia; Migraine
+25,1,0.66,41.0,Female,Hemiplegia; Aphasia
+24,1,1.11,38.3,Male,Stroke
+39,0,1.26,45.8,Male,Dysphagia; Stroke; Aphasia
+42,3,0.98,39.3,Female,Aphasia
+38,2,0.79,45.4,Male,Headache
+67,0,1.14,42.3,Male,transformatio haemorrhagica; Reinsultus ischaemicus cerebri in b. ACM sin; Headache
+53,0,1.07,40.6,Male,Migraine; Dysphagia
+59,3,0.96,40.7,Male,Dysphagia; Aphasia; Reinsultus ischaemicus cerebri in b. ACM sin
+53,2,0.98,48.0,Male,Insultus ischaemicus cerebellum sin; Coma; Seizure
+54,0,0.91,41.2,Female,Stroke; Seizure; transformatio haemorrhagica
+41,1,0.83,40.3,Male,Headache; transformatio haemorrhagica; Reinsultus ischaemicus cerebri in b. ACM sin
+54,0,0.6,36.4,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Coma; Migraine
+52,0,0.93,38.2,Female,Coma
+59,0,0.76,46.6,Male,Migraine; Dysphagia; Ataxia
+61,0,0.82,44.4,Male,Coma; Stroke
+71,0,1.02,39.4,Male,Insultus ischaemicus cerebellum sin
+44,0,1.05,41.1,Male,Migraine; Seizure
+54,2,0.87,45.6,Male,transformatio haemorrhagica; Seizure
+41,1,0.76,45.7,Male,Hemiplegia
+56,3,1.03,44.2,Male,Ataxia; Coma
+85,2,0.93,42.2,Female,Seizure; Ataxia
+34,1,0.94,48.1,Male,Ataxia; Reinsultus ischaemicus cerebri in b. ACM sin
+40,0,1.11,44.0,Male,Stroke; Ataxia; Hemiplegia
+51,1,1.02,41.3,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Dysphagia; Ataxia
+67,2,0.89,42.1,Female,Migraine; Reinsultus ischaemicus cerebri in b. ACM sin; Dysphagia
+49,3,1.34,47.0,Male,Ataxia; Hemiplegia; Insultus ischaemicus cerebellum sin
+48,3,0.9,41.6,Male,Insultus ischaemicus cerebellum sin; Seizure; Reinsultus ischaemicus cerebri in b. ACM sin
+50,0,0.81,40.7,Male,transformatio haemorrhagica; Insultus ischaemicus cerebellum sin
+55,3,1.18,40.9,Male,Migraine; Stroke
+66,1,0.72,39.6,Female,Ataxia; Reinsultus ischaemicus cerebri in b. ACM sin
+62,3,0.86,42.3,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Migraine; Aphasia
+52,0,0.78,44.5,Male,Coma; Dysphagia; Headache
+58,0,0.91,37.2,Female,Dysphagia; Insultus ischaemicus cerebellum sin; Headache
+67,0,1.02,42.7,Male,Migraine; Hemiplegia
+87,3,0.87,37.5,Female,Coma; Dysphagia
+65,0,0.7,43.0,Female,Stroke
+28,2,1.0,40.3,Male,Insultus ischaemicus cerebellum sin; Headache; Seizure
+32,1,0.8,40.1,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Insultus ischaemicus cerebellum sin; Headache
+74,3,0.79,40.5,Female,Hemiplegia
+37,3,1.0,39.4,Female,transformatio haemorrhagica
+62,0,0.88,40.4,Female,Ataxia
+64,3,0.74,39.5,Male,Migraine
+62,2,0.76,41.4,Male,Stroke; transformatio haemorrhagica
+55,1,0.97,40.3,Female,Coma; Aphasia
+46,1,0.89,47.4,Male,Aphasia; Migraine
+87,0,0.81,43.0,Male,Insultus ischaemicus cerebellum sin
+38,2,0.59,37.9,Female,Headache; Hemiplegia; transformatio haemorrhagica
+30,2,0.93,44.7,Female,Insultus ischaemicus cerebellum sin
+51,0,1.26,48.5,Male,Ataxia
+29,1,1.0,43.7,Female,transformatio haemorrhagica; Seizure; Aphasia
+47,1,0.62,40.8,Female,Insultus ischaemicus cerebellum sin; Dysphagia
+24,2,0.75,46.0,Male,Seizure; transformatio haemorrhagica; Insultus ischaemicus cerebellum sin
+85,2,0.83,40.0,Female,Aphasia; Coma
+67,1,0.66,37.6,Female,Coma
+43,2,0.98,40.6,Female,Headache
+38,3,0.86,44.2,Female,Migraine; Reinsultus ischaemicus cerebri in b. ACM sin; Aphasia
+54,0,0.77,40.3,Male,Coma; Insultus ischaemicus cerebellum sin; transformatio haemorrhagica
+68,0,0.83,43.3,Male,Dysphagia; Insultus ischaemicus cerebellum sin
+61,0,1.01,43.3,Female,Reinsultus ischaemicus cerebri in b. ACM sin
+53,0,0.7,42.9,Female,Seizure; Ataxia; transformatio haemorrhagica
+22,3,0.74,41.9,Male,transformatio haemorrhagica; Migraine; Stroke
+22,2,0.84,37.5,Female,Ataxia
+94,3,0.79,40.8,Male,Migraine
+31,3,1.2,45.7,Male,Ataxia; Stroke; Insultus ischaemicus cerebellum sin
+37,2,1.24,39.7,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Stroke
+39,3,1.0,44.2,Female,Headache
+28,3,0.91,48.3,Male,Aphasia
+56,1,1.0,40.6,Male,Ataxia
+49,0,1.03,44.5,Female,Hemiplegia; Aphasia
+48,3,0.91,36.5,Female,transformatio haemorrhagica
+60,1,1.07,40.7,Male,Headache; transformatio haemorrhagica
+86,3,0.84,43.8,Male,Coma; Seizure
+50,0,0.67,37.5,Female,Stroke; transformatio haemorrhagica
+57,0,0.85,35.8,Female,Dysphagia; Ataxia
+11,0,1.18,43.5,Male,Headache
+29,3,0.93,40.3,Female,Migraine; Reinsultus ischaemicus cerebri in b. ACM sin
+27,1,0.78,37.1,Female,Ataxia; Insultus ischaemicus cerebellum sin
+46,1,0.88,37.4,Female,Reinsultus ischaemicus cerebri in b. ACM sin
+75,0,0.62,43.8,Female,Stroke
+52,0,1.0,41.4,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Seizure; Dysphagia
+58,1,0.78,43.6,Female,Aphasia; Seizure
+48,1,1.12,42.1,Male,Hemiplegia; Headache; Ataxia
+39,0,1.17,42.2,Male,Headache
+30,1,0.86,35.9,Female,Migraine; transformatio haemorrhagica; Hemiplegia
+28,3,1.12,47.7,Male,Migraine; Ataxia
+56,1,0.98,40.2,Female,Stroke
+61,2,0.66,42.9,Female,Insultus ischaemicus cerebellum sin; Hemiplegia
+15,3,1.01,38.7,Male,Coma
+33,3,0.95,47.1,Male,Migraine; Headache; Stroke
+9,0,1.33,46.7,Male,transformatio haemorrhagica
+49,1,0.8,37.1,Female,Headache
+45,1,0.81,36.3,Female,Seizure
+27,2,0.99,42.7,Female,Coma; Stroke; Headache
+22,3,0.77,41.5,Female,Aphasia; Dysphagia; transformatio haemorrhagica
+52,0,0.92,44.4,Male,Aphasia; Insultus ischaemicus cerebellum sin; Dysphagia
+63,0,0.96,42.3,Female,Ataxia
+61,1,0.77,38.9,Female,Ataxia; Seizure
+61,2,1.07,43.2,Male,Migraine; Ataxia; Seizure
+47,2,1.21,47.0,Male,Aphasia; Dysphagia
+47,1,1.03,44.8,Female,Stroke; Reinsultus ischaemicus cerebri in b. ACM sin
+46,3,0.6,42.4,Female,Seizure
+35,2,0.82,41.0,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Insultus ischaemicus cerebellum sin; Seizure
+27,1,0.8,43.6,Male,Hemiplegia; Migraine
+39,3,1.01,38.1,Female,Aphasia
+65,1,0.94,44.7,Male,Headache; Stroke; Coma
+28,0,1.12,40.1,Male,Coma; transformatio haemorrhagica
+38,3,1.05,43.9,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Insultus ischaemicus cerebellum sin
+75,3,0.66,42.6,Female,transformatio haemorrhagica
+62,0,0.82,41.1,Male,Hemiplegia; Migraine; Insultus ischaemicus cerebellum sin
+55,2,0.75,42.1,Female,Hemiplegia; Coma
+29,1,0.85,48.6,Male,Ataxia; Reinsultus ischaemicus cerebri in b. ACM sin
+40,1,0.95,45.1,Male,Seizure; Reinsultus ischaemicus cerebri in b. ACM sin; Coma
+50,1,0.8,43.6,Female,Insultus ischaemicus cerebellum sin; Migraine
+63,1,0.9,37.9,Female,Aphasia; Dysphagia; Headache
+59,0,0.95,42.7,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Ataxia
+54,1,0.77,35.6,Female,Coma; Ataxia; Seizure
+100,1,0.67,43.5,Female,Ataxia; Seizure; Coma
+59,3,0.84,35.7,Female,Headache
+21,1,0.83,41.9,Female,Insultus ischaemicus cerebellum sin; Hemiplegia; Migraine
+61,1,0.94,36.5,Female,Insultus ischaemicus cerebellum sin
+49,1,0.73,43.7,Female,Stroke; Ataxia
+45,2,0.82,39.3,Male,Ataxia; Dysphagia
+84,3,0.76,39.7,Female,Insultus ischaemicus cerebellum sin; transformatio haemorrhagica
+52,1,1.0,40.2,Male,Migraine; Headache; Seizure
+46,1,0.83,40.3,Female,Stroke; Insultus ischaemicus cerebellum sin
+28,1,0.6,43.9,Female,Migraine
+56,0,0.9,42.1,Female,Migraine
+49,1,0.96,42.3,Male,Aphasia; Insultus ischaemicus cerebellum sin
+73,0,0.76,39.4,Male,Seizure; Headache
+61,0,1.23,39.2,Male,Stroke; Migraine
+55,0,0.72,36.7,Female,Stroke
+65,0,0.98,42.1,Female,Seizure; Dysphagia; Headache
+59,2,1.07,43.8,Male,Migraine
+45,3,1.02,42.1,Male,Migraine; Dysphagia
+26,1,0.82,45.8,Male,Stroke; transformatio haemorrhagica
+53,2,0.78,43.5,Female,Migraine
+48,3,0.8,43.2,Male,Ataxia
+79,1,1.03,39.2,Female,Migraine; Ataxia; Hemiplegia
+28,3,0.79,37.9,Female,transformatio haemorrhagica
+82,3,0.89,41.2,Female,Coma; Ataxia
+79,2,1.02,41.6,Female,Insultus ischaemicus cerebellum sin; Aphasia
+44,3,0.77,42.3,Female,Aphasia; Migraine; Ataxia
+75,1,0.75,43.8,Male,Coma; Insultus ischaemicus cerebellum sin; Seizure
+41,1,1.1,38.6,Male,Migraine
+67,3,1.29,48.0,Male,Migraine; Insultus ischaemicus cerebellum sin
+75,3,0.93,42.4,Male,transformatio haemorrhagica
+74,2,1.23,45.7,Male,Coma
+48,0,1.23,44.6,Male,Coma; Hemiplegia; Seizure
+37,0,1.08,39.7,Male,Headache; Ataxia
+53,0,0.7,40.3,Female,Hemiplegia
+33,2,0.7,41.4,Female,Hemiplegia; transformatio haemorrhagica; Seizure
+69,0,1.07,45.9,Male,Dysphagia; Stroke
+75,0,0.94,44.4,Male,Seizure; Aphasia
+69,3,0.75,39.8,Female,Migraine; Dysphagia
+91,3,1.33,45.7,Male,Migraine; Seizure; Stroke
+30,0,0.88,44.1,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Headache; Stroke
+42,2,0.62,38.1,Female,Aphasia; Hemiplegia; Dysphagia
+46,1,0.6,38.0,Female,Coma; Aphasia
+35,3,1.1,38.9,Male,transformatio haemorrhagica; Reinsultus ischaemicus cerebri in b. ACM sin
+49,1,1.0,41.4,Female,transformatio haemorrhagica; Coma
+32,3,1.33,46.6,Male,transformatio haemorrhagica
+40,0,1.02,47.9,Male,Coma; Aphasia; Ataxia
+48,3,0.65,44.8,Female,Migraine; Aphasia
+53,2,0.82,45.2,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Ataxia; Insultus ischaemicus cerebellum sin
+20,0,0.96,43.5,Male,Seizure
+48,3,0.77,45.8,Male,transformatio haemorrhagica; Dysphagia
+35,2,0.93,43.9,Female,Stroke; Reinsultus ischaemicus cerebri in b. ACM sin
+64,2,0.75,44.2,Male,Stroke; Reinsultus ischaemicus cerebri in b. ACM sin; Headache
+75,2,0.92,35.8,Female,Seizure
+79,1,1.13,48.1,Male,Aphasia
+35,2,0.72,43.6,Female,Stroke; Coma; Aphasia
+28,0,0.86,44.6,Male,Coma
+71,3,0.7,44.7,Female,transformatio haemorrhagica; Stroke
+70,0,0.9,42.9,Female,Aphasia; Reinsultus ischaemicus cerebri in b. ACM sin; Hemiplegia
+12,0,0.6,42.1,Female,Headache
+63,3,0.66,40.0,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Migraine; Stroke
+57,1,0.82,42.7,Female,Migraine; Reinsultus ischaemicus cerebri in b. ACM sin
+44,1,0.79,41.9,Female,Stroke; Reinsultus ischaemicus cerebri in b. ACM sin; Ataxia
+61,2,1.2,44.9,Male,Hemiplegia; Dysphagia
+18,0,1.09,46.5,Male,Stroke; Seizure; Coma
+42,1,1.06,42.9,Male,Coma; Ataxia
+54,1,1.27,44.6,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Hemiplegia
+49,0,0.99,46.6,Male,Dysphagia
+65,1,0.81,35.8,Female,Headache; Reinsultus ischaemicus cerebri in b. ACM sin; transformatio haemorrhagica
+17,3,1.05,48.2,Male,Ataxia; Coma; Stroke
+48,2,0.75,39.1,Male,Hemiplegia
+30,3,0.76,47.5,Male,Hemiplegia
+62,3,1.15,46.6,Male,Stroke
+33,0,0.99,37.1,Female,Ataxia; Insultus ischaemicus cerebellum sin
+50,3,0.69,36.3,Female,Dysphagia
+46,3,0.9,41.5,Female,Hemiplegia
+77,0,0.67,44.2,Female,Headache
+24,1,0.94,44.2,Female,Aphasia
+60,0,0.79,41.7,Female,Headache; Hemiplegia; Aphasia
+53,3,0.69,37.7,Female,Hemiplegia; Migraine; transformatio haemorrhagica
+62,3,1.1,40.1,Male,transformatio haemorrhagica; Ataxia
+53,2,1.28,44.6,Male,Insultus ischaemicus cerebellum sin; Seizure; Dysphagia
+45,1,0.83,41.1,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Aphasia
+44,0,0.74,36.7,Female,Insultus ischaemicus cerebellum sin; Ataxia; Hemiplegia
+34,2,1.31,43.9,Male,transformatio haemorrhagica
+70,1,1.2,39.6,Male,Ataxia; Migraine
+53,2,1.19,43.4,Male,Dysphagia; Migraine; Stroke
+64,0,1.01,39.4,Male,Headache; Migraine
+77,2,0.75,38.8,Male,Aphasia; Dysphagia
+51,1,0.98,44.1,Male,Ataxia
+37,0,0.71,35.7,Female,transformatio haemorrhagica; Headache
+42,3,0.69,38.9,Female,Stroke
+63,1,1.14,43.0,Male,transformatio haemorrhagica
+56,2,0.88,41.0,Female,Headache; Seizure; Coma
+49,3,0.97,39.6,Female,Stroke; Ataxia; Dysphagia
+60,1,1.29,41.8,Male,Insultus ischaemicus cerebellum sin; transformatio haemorrhagica
+35,3,0.82,40.9,Female,Coma; Stroke; Insultus ischaemicus cerebellum sin
+67,2,0.93,35.6,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Headache; transformatio haemorrhagica
+60,0,0.74,39.7,Female,Aphasia
+85,2,0.92,40.4,Male,Coma; Hemiplegia
+49,0,0.61,43.9,Female,Aphasia; Coma
+42,3,0.99,47.1,Male,transformatio haemorrhagica
+85,2,0.93,45.3,Male,Reinsultus ischaemicus cerebri in b. ACM sin; transformatio haemorrhagica
+45,3,0.93,38.5,Male,Headache; transformatio haemorrhagica
+100,3,0.74,43.9,Female,Coma; Dysphagia; Aphasia
+71,1,0.94,38.3,Female,Dysphagia
+14,0,0.65,36.6,Female,Seizure; Hemiplegia
+64,3,0.88,40.7,Female,Coma; Headache
+61,0,0.97,41.0,Female,Migraine; Aphasia; Coma
+47,2,0.93,36.2,Female,Insultus ischaemicus cerebellum sin; Headache; Stroke
+71,1,1.02,43.0,Male,Hemiplegia
+42,0,0.95,47.1,Male,Migraine
+57,0,0.84,37.6,Female,Dysphagia; Headache
+41,2,0.88,35.7,Female,Stroke; Reinsultus ischaemicus cerebri in b. ACM sin; Coma
+81,1,1.23,42.1,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Ataxia
+48,2,0.78,40.9,Female,Ataxia; Headache; Reinsultus ischaemicus cerebri in b. ACM sin
+61,1,0.76,41.6,Female,Headache; Hemiplegia
+51,3,0.95,44.6,Male,Migraine; Ataxia
+69,1,0.81,46.3,Male,Seizure; Headache; Coma
+60,3,1.0,40.9,Male,Stroke; Coma
+45,0,0.88,36.7,Female,transformatio haemorrhagica
+50,0,0.62,42.4,Female,Aphasia
+72,1,0.78,38.5,Male,transformatio haemorrhagica
+52,2,1.3,41.4,Male,Seizure
+60,1,1.34,46.0,Male,Ataxia
+72,1,0.85,36.9,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Stroke
+49,1,0.9,45.9,Male,Hemiplegia
+31,0,0.76,36.9,Female,transformatio haemorrhagica
+28,0,1.25,48.2,Male,Aphasia; transformatio haemorrhagica; Seizure
+72,2,1.03,38.1,Female,Insultus ischaemicus cerebellum sin; Stroke
+67,0,0.95,43.9,Male,Dysphagia; transformatio haemorrhagica; Ataxia
+45,3,1.0,43.8,Male,Hemiplegia; Coma; Insultus ischaemicus cerebellum sin
+53,1,0.59,35.6,Female,Migraine
+70,1,0.96,37.1,Female,Seizure; transformatio haemorrhagica; Ataxia
+79,2,0.84,42.2,Male,Hemiplegia; Headache; Ataxia
+30,0,0.63,37.3,Female,Stroke
+40,1,1.17,44.6,Male,Dysphagia; Hemiplegia; Seizure
+52,2,0.62,36.0,Female,Ataxia; Migraine
+70,3,0.73,41.0,Female,Migraine; Stroke; Insultus ischaemicus cerebellum sin
+75,1,0.85,38.3,Female,Insultus ischaemicus cerebellum sin
+53,1,0.91,48.0,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+17,1,0.87,41.4,Female,Migraine; Insultus ischaemicus cerebellum sin; Stroke
+40,2,0.82,42.3,Male,Migraine; transformatio haemorrhagica
+38,3,0.8,42.9,Male,Coma; Hemiplegia; Headache
+33,0,0.79,39.1,Male,Coma
+36,1,1.25,39.4,Male,Seizure; Reinsultus ischaemicus cerebri in b. ACM sin; Coma
+42,2,0.82,40.8,Female,Stroke
+25,1,0.88,40.4,Female,Coma; Dysphagia; Stroke
+57,1,0.81,37.1,Female,Headache; Dysphagia
+26,0,0.78,43.0,Female,Aphasia; Coma
+65,2,0.79,40.6,Male,Aphasia; Headache; Coma
+39,2,0.64,42.5,Female,Seizure
+0,0,1.02,40.1,Female,Coma; Insultus ischaemicus cerebellum sin; transformatio haemorrhagica
+35,3,0.98,39.4,Female,Seizure
+14,1,0.89,42.3,Female,Seizure; Ataxia
+43,1,1.03,44.0,Male,Coma
+62,0,1.12,39.2,Male,Coma; transformatio haemorrhagica
+52,2,0.76,40.4,Female,Hemiplegia
+39,2,0.66,43.8,Female,Headache; Ataxia; Seizure
+67,3,0.64,44.5,Female,Dysphagia; transformatio haemorrhagica
+43,1,0.92,43.4,Male,Insultus ischaemicus cerebellum sin; Stroke; Seizure
+53,3,1.19,39.7,Male,Ataxia
+63,3,0.97,43.6,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Insultus ischaemicus cerebellum sin
+28,2,1.3,47.4,Male,Hemiplegia; Stroke
+60,0,0.88,44.5,Male,Seizure
+75,0,1.03,42.3,Female,Reinsultus ischaemicus cerebri in b. ACM sin
+82,0,0.81,35.5,Female,Stroke; Migraine; Headache
+53,3,0.7,37.2,Female,Hemiplegia
+30,0,1.08,48.5,Male,transformatio haemorrhagica
+49,3,0.88,36.7,Female,Seizure
+59,2,1.2,43.8,Male,Hemiplegia; Stroke; Ataxia
+31,3,0.92,37.5,Female,Insultus ischaemicus cerebellum sin
+18,0,0.87,36.8,Female,Insultus ischaemicus cerebellum sin; Coma
+22,3,0.68,38.0,Female,Stroke; Aphasia
+69,2,1.11,42.7,Male,transformatio haemorrhagica
+69,1,0.9,40.5,Female,Aphasia; Stroke; Migraine
+25,3,1.34,42.2,Male,transformatio haemorrhagica; Insultus ischaemicus cerebellum sin; Seizure
+58,2,1.19,47.7,Male,transformatio haemorrhagica; Insultus ischaemicus cerebellum sin
+76,1,0.86,48.0,Male,Headache; Insultus ischaemicus cerebellum sin
+71,0,0.7,38.2,Female,Ataxia
+56,1,0.61,44.8,Female,Migraine; Dysphagia; Stroke
+36,0,0.83,40.2,Female,Stroke; Dysphagia
+45,0,1.22,45.2,Male,transformatio haemorrhagica; Stroke
+60,3,0.97,39.0,Female,Seizure; Coma
+49,2,0.75,40.4,Female,Stroke
+58,2,0.9,35.7,Female,Ataxia; Reinsultus ischaemicus cerebri in b. ACM sin; Hemiplegia
+59,2,0.87,42.6,Female,Stroke; transformatio haemorrhagica; Dysphagia
+46,3,0.86,40.6,Male,Seizure; Insultus ischaemicus cerebellum sin; Reinsultus ischaemicus cerebri in b. ACM sin
+49,2,0.89,48.3,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Hemiplegia; Aphasia
+58,3,0.6,36.9,Female,Migraine; transformatio haemorrhagica; Reinsultus ischaemicus cerebri in b. ACM sin
+23,1,0.92,41.0,Female,transformatio haemorrhagica
+78,1,0.85,35.7,Female,Coma; Seizure
+38,1,0.97,42.4,Male,Coma; transformatio haemorrhagica; Headache
+33,1,1.13,44.3,Male,Hemiplegia
+49,3,0.99,47.2,Male,Coma
+68,3,0.86,43.8,Male,Headache; Ataxia
+65,2,0.8,40.8,Female,transformatio haemorrhagica; Coma
+59,3,1.34,42.5,Male,Migraine; Seizure; Aphasia
+28,1,1.04,42.9,Male,Headache; transformatio haemorrhagica; Aphasia
+64,0,1.03,37.8,Female,Headache; Insultus ischaemicus cerebellum sin; Aphasia
+32,0,1.02,36.6,Female,Seizure; Aphasia; Stroke
+19,1,0.86,40.2,Female,Migraine
+61,3,0.83,44.5,Female,Aphasia; Ataxia
+42,3,0.9,40.6,Female,Headache; Hemiplegia; Aphasia
+47,1,0.85,44.5,Male,Coma; Ataxia
+65,0,1.14,38.7,Male,Hemiplegia; Dysphagia; Seizure
+15,0,0.95,43.2,Female,Seizure; Coma; Dysphagia
+51,1,0.74,41.4,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+38,1,0.72,44.7,Female,Headache
+66,3,0.88,48.3,Male,Seizure
+60,2,0.88,40.5,Male,Aphasia; transformatio haemorrhagica; Hemiplegia
+67,2,0.65,42.7,Female,Migraine; Dysphagia; transformatio haemorrhagica
+52,3,1.03,42.4,Female,Dysphagia; Seizure
+51,0,0.73,36.3,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Dysphagia; Seizure
+44,3,0.99,46.1,Male,Insultus ischaemicus cerebellum sin; Coma; Reinsultus ischaemicus cerebri in b. ACM sin
+48,1,0.94,44.7,Female,Headache
+10,0,1.03,41.8,Female,Ataxia
+62,2,0.75,46.3,Male,transformatio haemorrhagica
+13,0,1.33,47.0,Male,Headache
+9,3,1.04,39.5,Male,transformatio haemorrhagica; Reinsultus ischaemicus cerebri in b. ACM sin
+49,3,0.93,41.1,Female,Coma; Dysphagia; Aphasia
+42,2,0.7,38.7,Female,Migraine; Coma
+51,1,0.89,46.0,Male,Seizure
+45,0,1.17,42.4,Male,Headache; Coma; Hemiplegia
+54,3,0.95,48.4,Male,transformatio haemorrhagica; Hemiplegia
+17,2,0.64,36.7,Female,Dysphagia
+45,1,0.95,42.7,Female,Hemiplegia; Migraine
+44,3,0.85,47.5,Male,Coma; Seizure
+86,0,0.82,42.3,Male,transformatio haemorrhagica; Hemiplegia
+23,2,0.65,39.9,Female,Migraine
+30,1,1.01,41.0,Female,Insultus ischaemicus cerebellum sin; Dysphagia; Seizure
+49,1,0.97,39.0,Female,Headache; transformatio haemorrhagica
+75,3,1.21,45.2,Male,Coma
+64,3,1.32,48.5,Male,Insultus ischaemicus cerebellum sin; Stroke; Dysphagia
+65,2,1.01,40.1,Female,Migraine
+49,3,0.61,40.5,Female,Coma
+56,2,1.03,36.1,Female,Ataxia; Seizure; Migraine
+59,1,0.93,38.5,Male,Reinsultus ischaemicus cerebri in b. ACM sin; transformatio haemorrhagica
+54,2,1.3,45.9,Male,Aphasia; Reinsultus ischaemicus cerebri in b. ACM sin
+77,0,0.68,40.1,Female,Ataxia; Coma
+81,2,1.33,45.4,Male,Aphasia; transformatio haemorrhagica
+40,3,0.79,43.6,Male,Insultus ischaemicus cerebellum sin; Reinsultus ischaemicus cerebri in b. ACM sin; transformatio haemorrhagica
+34,2,1.24,47.6,Male,Headache
+74,1,0.92,38.3,Female,Dysphagia; Insultus ischaemicus cerebellum sin; Seizure
+84,1,0.98,37.3,Female,Coma; Hemiplegia
+49,3,1.05,44.7,Male,Headache; Ataxia
+69,0,1.05,40.3,Male,Hemiplegia; Coma; Seizure
+48,2,0.94,35.7,Female,Seizure; Aphasia
+33,3,0.92,36.4,Female,Hemiplegia; Dysphagia
+51,2,0.8,42.6,Female,transformatio haemorrhagica
+57,3,0.93,35.7,Female,Stroke; Migraine; Ataxia
+60,0,1.13,44.9,Male,Insultus ischaemicus cerebellum sin
+58,1,0.78,38.9,Female,Stroke; Insultus ischaemicus cerebellum sin; Hemiplegia
+75,0,1.01,42.5,Female,Stroke
+44,0,0.81,36.7,Female,Insultus ischaemicus cerebellum sin
+0,3,0.63,43.1,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Headache
+67,0,0.7,36.6,Female,Headache; Insultus ischaemicus cerebellum sin; Hemiplegia
+62,0,1.01,44.7,Female,transformatio haemorrhagica
+67,0,1.23,46.6,Male,transformatio haemorrhagica; Insultus ischaemicus cerebellum sin
+36,2,0.78,42.4,Male,Ataxia
+46,1,1.01,35.7,Female,Hemiplegia; Ataxia; Aphasia
+45,1,0.9,35.6,Female,Coma; Insultus ischaemicus cerebellum sin
+28,1,0.63,40.4,Female,Insultus ischaemicus cerebellum sin; Reinsultus ischaemicus cerebri in b. ACM sin; Hemiplegia
+57,3,1.34,39.9,Male,Migraine
+58,1,0.69,39.5,Female,Stroke; Headache; Insultus ischaemicus cerebellum sin
+79,0,1.09,45.1,Male,Hemiplegia; Headache; Migraine
+90,0,0.68,42.8,Female,Seizure
+30,3,0.83,48.5,Male,Ataxia
+66,1,0.65,39.6,Female,Headache; Dysphagia; Coma
+80,2,0.63,42.7,Female,Ataxia; Migraine
+75,1,1.08,43.3,Male,transformatio haemorrhagica; Dysphagia; Migraine
+41,1,0.66,44.7,Female,Headache
+10,3,1.01,39.2,Female,Hemiplegia
+37,0,0.89,45.7,Male,Aphasia; Ataxia; Migraine
+40,0,0.97,38.9,Female,Dysphagia
+60,2,0.86,38.6,Female,Insultus ischaemicus cerebellum sin
+93,3,0.94,38.7,Female,Coma
+34,1,0.98,39.8,Male,Aphasia
+78,1,0.84,44.0,Female,Hemiplegia; transformatio haemorrhagica
+78,0,1.27,41.5,Male,Hemiplegia; Headache
+75,3,1.35,47.0,Male,Stroke; Ataxia
+56,0,0.6,36.7,Female,Migraine; Stroke
+44,2,0.94,42.7,Male,Hemiplegia; Seizure; Dysphagia
+48,2,0.89,44.5,Male,Dysphagia; Aphasia; Ataxia
+42,1,1.29,44.3,Male,Ataxia
+66,1,0.59,41.2,Female,Stroke
+67,2,0.67,39.0,Female,Hemiplegia; Aphasia; Insultus ischaemicus cerebellum sin
+14,0,0.74,42.2,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Hemiplegia; Migraine
+74,0,0.86,43.1,Female,transformatio haemorrhagica; Reinsultus ischaemicus cerebri in b. ACM sin; Seizure
+40,2,0.89,38.5,Female,Hemiplegia; Migraine
+51,1,1.2,41.8,Male,Ataxia; Migraine; Headache
+29,2,0.64,39.6,Female,Ataxia; Headache
+52,2,1.28,43.4,Male,Dysphagia; Migraine; transformatio haemorrhagica
+57,2,0.94,38.5,Female,Seizure; Hemiplegia; Migraine
+42,3,0.79,47.2,Male,transformatio haemorrhagica; Aphasia; Ataxia
+17,2,1.09,42.7,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Migraine
+28,2,0.84,43.6,Male,Headache; Reinsultus ischaemicus cerebri in b. ACM sin; Dysphagia
+26,0,0.92,44.0,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Coma; Seizure
+55,0,0.99,38.2,Female,Coma
+78,1,0.84,39.0,Male,Migraine; Seizure; Ataxia
+64,0,0.85,40.5,Male,Reinsultus ischaemicus cerebri in b. ACM sin; transformatio haemorrhagica
+40,3,0.62,36.9,Female,transformatio haemorrhagica; Insultus ischaemicus cerebellum sin; Seizure
+37,0,0.95,40.4,Male,Stroke; Seizure
+58,0,0.95,38.5,Female,Insultus ischaemicus cerebellum sin; Headache; Hemiplegia
+44,2,0.62,39.0,Female,Dysphagia; Hemiplegia
+46,3,0.75,40.0,Female,Stroke; Seizure; Coma
+47,2,0.81,43.9,Female,Migraine
+69,0,0.99,40.2,Male,Insultus ischaemicus cerebellum sin
+74,1,0.85,40.6,Female,Migraine; Dysphagia
+72,1,0.84,36.4,Female,Stroke; Ataxia; Reinsultus ischaemicus cerebri in b. ACM sin
+72,0,1.32,48.3,Male,Migraine; Headache; Insultus ischaemicus cerebellum sin
+60,2,0.93,43.8,Female,Headache; Stroke
+52,3,0.88,40.2,Female,Hemiplegia; Coma
+36,0,1.02,44.0,Female,Ataxia; Seizure
+43,1,1.01,41.1,Female,Headache; transformatio haemorrhagica
+28,0,0.81,43.6,Male,Stroke; Aphasia; Ataxia
+30,2,0.69,40.7,Female,transformatio haemorrhagica; Insultus ischaemicus cerebellum sin; Ataxia
+33,0,1.32,39.1,Male,Dysphagia
+53,0,1.02,37.9,Female,Headache
+3,2,0.66,42.4,Female,Dysphagia; Ataxia; Seizure
+48,1,1.05,43.3,Male,Aphasia
+1,0,0.64,40.7,Female,Hemiplegia
+53,2,1.04,43.7,Male,transformatio haemorrhagica
+77,1,0.64,37.4,Female,Dysphagia; Aphasia
+71,0,1.21,41.5,Male,Insultus ischaemicus cerebellum sin; Headache
+57,0,1.29,39.5,Male,Ataxia; Stroke; Reinsultus ischaemicus cerebri in b. ACM sin
+82,2,0.69,43.3,Female,Aphasia
+52,3,0.94,41.6,Female,Ataxia; Seizure; Coma
+39,1,0.97,42.4,Male,Coma; Aphasia
+59,1,0.81,35.7,Female,Coma
+41,1,0.82,39.9,Female,Seizure; Hemiplegia; Ataxia
+62,3,0.9,39.4,Male,transformatio haemorrhagica; Insultus ischaemicus cerebellum sin; Hemiplegia
+1,0,0.76,38.9,Male,transformatio haemorrhagica
+27,0,0.79,42.4,Female,Migraine
+68,0,0.76,40.6,Male,Headache; Coma
+46,0,1.34,44.6,Male,Stroke; Seizure; Reinsultus ischaemicus cerebri in b. ACM sin
+55,2,0.79,40.7,Female,Migraine
+30,3,0.83,42.9,Female,Coma; Headache; Reinsultus ischaemicus cerebri in b. ACM sin
+47,1,1.17,45.1,Male,Seizure
+32,3,1.25,46.9,Male,transformatio haemorrhagica; Dysphagia; Coma
+29,3,0.86,44.4,Female,Migraine
+73,2,0.82,42.6,Male,Ataxia
+47,1,1.21,40.3,Male,Seizure; Hemiplegia
+60,1,0.88,36.9,Female,Insultus ischaemicus cerebellum sin; Seizure; Ataxia
+68,3,0.59,43.6,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Hemiplegia; Aphasia
+95,1,0.93,36.2,Female,Seizure; transformatio haemorrhagica; Insultus ischaemicus cerebellum sin
+64,3,0.92,40.9,Male,Coma; Dysphagia
+91,1,0.79,41.8,Female,Reinsultus ischaemicus cerebri in b. ACM sin
+51,2,0.95,42.0,Female,Aphasia
+48,2,0.84,37.3,Female,Ataxia
+80,0,0.88,41.1,Male,Coma
+62,1,0.8,39.2,Female,Insultus ischaemicus cerebellum sin; Coma; Stroke
+44,0,0.66,38.9,Female,Headache; Stroke; Hemiplegia
+48,2,0.92,46.5,Male,Ataxia
+15,3,0.63,37.7,Female,Seizure
+66,2,0.76,39.4,Female,Headache
+42,0,1.33,43.5,Male,Ataxia
+39,1,0.95,44.7,Male,Stroke; transformatio haemorrhagica
+44,2,0.77,42.1,Male,Coma
+48,2,1.19,38.7,Male,Insultus ischaemicus cerebellum sin; Reinsultus ischaemicus cerebri in b. ACM sin; Stroke
+34,0,1.31,46.3,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+22,1,0.88,40.6,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+34,1,1.22,40.2,Male,Seizure
+37,3,0.71,36.7,Female,Ataxia; Aphasia; transformatio haemorrhagica
+52,3,1.21,39.5,Male,Aphasia; Insultus ischaemicus cerebellum sin; Dysphagia
+58,0,0.69,40.4,Female,Aphasia; Seizure; Coma
+12,2,0.93,39.2,Female,Aphasia
+47,2,1.19,45.2,Male,Seizure; Ataxia
+54,2,0.82,41.2,Male,Coma; Dysphagia
+68,1,0.9,43.3,Male,Dysphagia; Stroke; Reinsultus ischaemicus cerebri in b. ACM sin
+22,2,0.64,41.0,Female,Headache; Reinsultus ischaemicus cerebri in b. ACM sin
+62,3,0.83,48.5,Male,Coma; Dysphagia; Stroke
+66,3,0.76,36.0,Female,Dysphagia
+49,2,0.7,36.8,Female,Insultus ischaemicus cerebellum sin; Dysphagia; Seizure
+58,0,0.91,44.2,Male,Reinsultus ischaemicus cerebri in b. ACM sin; transformatio haemorrhagica
+28,0,0.86,37.7,Female,Insultus ischaemicus cerebellum sin; Reinsultus ischaemicus cerebri in b. ACM sin; Migraine
+47,3,0.66,42.9,Female,Stroke
+30,2,0.68,40.3,Female,Headache
+35,0,0.76,37.0,Female,Headache; Ataxia
+21,2,0.63,42.6,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Dysphagia; Stroke
+31,0,1.02,48.2,Male,Hemiplegia
+35,2,0.71,43.3,Female,Hemiplegia; Headache; Coma
+30,1,0.64,39.2,Female,Stroke; Migraine; Dysphagia
+65,2,0.82,48.0,Male,Coma; Migraine; Stroke
+49,1,0.82,40.8,Female,Insultus ischaemicus cerebellum sin; transformatio haemorrhagica; Coma
+59,1,0.86,36.0,Female,Headache; Coma; Migraine
+36,1,0.94,39.6,Male,Hemiplegia; Reinsultus ischaemicus cerebri in b. ACM sin; Seizure
+34,1,1.08,45.4,Male,Seizure; Reinsultus ischaemicus cerebri in b. ACM sin; transformatio haemorrhagica
+42,1,1.3,47.5,Male,Aphasia; transformatio haemorrhagica; Migraine
+55,0,0.83,45.6,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+58,0,1.15,43.3,Male,transformatio haemorrhagica; Reinsultus ischaemicus cerebri in b. ACM sin
+12,1,0.77,43.7,Male,Coma; Reinsultus ischaemicus cerebri in b. ACM sin
+31,0,0.79,41.6,Female,transformatio haemorrhagica; Ataxia; Seizure
+53,0,0.82,41.2,Female,Reinsultus ischaemicus cerebri in b. ACM sin
+49,2,0.97,48.3,Male,transformatio haemorrhagica; Aphasia
+56,0,0.68,43.9,Female,Ataxia
+23,3,0.79,40.0,Male,Aphasia; Seizure
+55,0,0.74,44.8,Male,transformatio haemorrhagica
+59,0,1.21,45.1,Male,Dysphagia; Coma
+64,1,0.78,40.8,Female,Ataxia; Aphasia; Dysphagia
+49,0,1.3,47.0,Male,Insultus ischaemicus cerebellum sin; Stroke; transformatio haemorrhagica
+54,1,1.26,41.5,Male,Seizure; Ataxia
+55,1,1.15,40.2,Male,Seizure; Migraine; Ataxia
+51,1,0.72,42.0,Female,Headache; Seizure
+32,1,0.72,43.7,Female,Dysphagia
+55,1,0.75,45.5,Male,transformatio haemorrhagica; Stroke
+65,0,1.15,40.4,Male,Headache
+64,3,0.97,38.3,Female,Insultus ischaemicus cerebellum sin; Seizure; Aphasia
+49,3,0.95,38.9,Male,Aphasia; Dysphagia
+42,3,0.75,36.5,Female,Headache; Dysphagia
+50,0,0.69,39.8,Female,Coma
+64,0,0.83,39.8,Female,Coma; transformatio haemorrhagica; Dysphagia
+61,0,1.02,39.7,Female,transformatio haemorrhagica
+78,3,1.07,45.3,Male,Headache; Coma
+41,1,0.91,42.5,Female,Dysphagia; Headache
+20,1,1.24,39.3,Male,Aphasia; Hemiplegia; Reinsultus ischaemicus cerebri in b. ACM sin
+56,0,0.98,39.3,Female,Seizure
+59,2,1.0,39.4,Female,transformatio haemorrhagica; Aphasia
+27,3,1.04,41.3,Female,Headache; Reinsultus ischaemicus cerebri in b. ACM sin; Stroke
+92,0,0.85,47.1,Male,Seizure; Hemiplegia; Stroke
+30,2,0.9,43.2,Male,Ataxia; Hemiplegia
+55,2,1.24,46.9,Male,Stroke; Reinsultus ischaemicus cerebri in b. ACM sin
+19,1,0.86,37.6,Female,transformatio haemorrhagica
+35,2,1.29,48.2,Male,Seizure; Headache
+25,2,1.27,39.7,Male,Stroke; Hemiplegia; Coma
+31,0,1.34,41.5,Male,Hemiplegia
+60,1,0.73,41.6,Female,Coma
+52,1,0.62,42.7,Female,Ataxia; transformatio haemorrhagica; Insultus ischaemicus cerebellum sin
+44,1,1.32,44.2,Male,Headache; Insultus ischaemicus cerebellum sin
+60,0,0.84,46.2,Male,Reinsultus ischaemicus cerebri in b. ACM sin; transformatio haemorrhagica
+48,0,0.96,38.1,Female,Migraine; transformatio haemorrhagica; Coma
+53,0,1.15,48.5,Male,Aphasia; Hemiplegia
+74,0,0.79,43.5,Female,Dysphagia; Aphasia; Stroke
+36,0,0.94,38.5,Female,Stroke; Dysphagia; Aphasia
+20,0,1.03,44.8,Male,Aphasia; Ataxia; Insultus ischaemicus cerebellum sin
+7,1,0.8,44.7,Female,Stroke; Aphasia
+26,2,0.76,45.3,Male,Headache; Reinsultus ischaemicus cerebri in b. ACM sin
+64,2,0.81,43.0,Female,Insultus ischaemicus cerebellum sin
+12,0,0.75,37.9,Female,Dysphagia; Headache; Migraine
+45,0,0.97,39.3,Female,Insultus ischaemicus cerebellum sin
+54,3,0.68,44.4,Female,Seizure
+33,0,1.21,39.0,Male,Ataxia
+65,0,0.79,42.0,Female,Aphasia; Seizure
+65,0,0.91,40.1,Female,Seizure
+16,1,1.27,41.5,Male,Seizure; Dysphagia
+18,3,0.8,35.7,Female,Coma; Reinsultus ischaemicus cerebri in b. ACM sin; Stroke
+40,2,0.87,36.1,Female,Insultus ischaemicus cerebellum sin; Ataxia; Seizure
+65,1,0.94,42.8,Female,Headache; Seizure; Coma
+34,0,1.0,43.7,Female,Stroke; Ataxia; transformatio haemorrhagica
+72,0,0.82,38.3,Female,Seizure
+43,2,0.99,37.0,Female,transformatio haemorrhagica; Reinsultus ischaemicus cerebri in b. ACM sin; Insultus ischaemicus cerebellum sin
+37,1,0.84,41.3,Male,Migraine; Dysphagia
+22,2,0.86,35.6,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Stroke; transformatio haemorrhagica
+74,3,1.28,40.6,Male,Seizure
+61,0,0.81,36.3,Female,Hemiplegia; transformatio haemorrhagica; Stroke
+96,2,1.02,38.7,Female,Hemiplegia; Reinsultus ischaemicus cerebri in b. ACM sin
+52,2,0.99,38.7,Male,Migraine; Ataxia
+31,3,1.0,41.1,Female,Seizure; transformatio haemorrhagica
+70,3,0.77,40.1,Female,Coma
+61,0,1.32,42.0,Male,Dysphagia
+74,3,0.75,36.6,Female,Seizure
+22,0,1.25,43.1,Male,Ataxia; Migraine
+52,2,0.74,41.3,Male,Insultus ischaemicus cerebellum sin; Aphasia
+53,1,0.9,40.7,Male,Ataxia; Migraine
+15,1,1.32,46.2,Male,Dysphagia; Reinsultus ischaemicus cerebri in b. ACM sin; Hemiplegia
+51,0,0.96,42.2,Female,Coma
+53,1,0.78,40.2,Female,Ataxia; Reinsultus ischaemicus cerebri in b. ACM sin; Coma
+42,0,1.24,45.6,Male,Aphasia; transformatio haemorrhagica
+18,3,1.22,39.4,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Dysphagia; Stroke
+54,3,0.92,40.3,Female,Headache
+36,1,1.04,39.6,Female,Headache; Migraine; Coma
+53,2,1.35,44.0,Male,Aphasia; transformatio haemorrhagica; Reinsultus ischaemicus cerebri in b. ACM sin
+64,0,0.78,39.5,Female,Insultus ischaemicus cerebellum sin
+23,1,1.04,36.8,Female,Ataxia; Hemiplegia; Reinsultus ischaemicus cerebri in b. ACM sin
+28,3,0.61,37.8,Female,Dysphagia; Aphasia
+13,3,0.84,43.2,Male,Dysphagia
+39,1,0.99,42.6,Female,Headache
+46,2,1.12,42.3,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+59,3,1.02,38.3,Female,Coma; Stroke
+54,3,1.27,42.8,Male,Migraine; transformatio haemorrhagica
+59,3,0.92,39.3,Female,transformatio haemorrhagica; Aphasia; Stroke
+31,2,0.77,42.7,Female,Aphasia; Insultus ischaemicus cerebellum sin; Seizure
+51,1,0.8,39.0,Male,Aphasia; Seizure
+41,0,0.74,45.3,Male,Hemiplegia
+66,2,0.86,42.8,Female,Stroke; Reinsultus ischaemicus cerebri in b. ACM sin
+78,3,1.03,44.5,Female,Coma
+46,2,0.83,48.3,Male,Aphasia
+93,0,0.88,38.4,Female,Dysphagia; Seizure; transformatio haemorrhagica
+71,3,1.01,41.5,Male,Seizure
+57,1,1.27,42.6,Male,Hemiplegia; Migraine
+17,2,0.75,44.2,Female,Insultus ischaemicus cerebellum sin; Ataxia; Dysphagia
+57,1,0.95,38.9,Male,Seizure
+41,1,0.96,42.5,Female,Coma
+55,2,1.13,47.0,Male,Seizure; Stroke
+99,3,1.1,43.0,Male,Coma; Stroke; Hemiplegia
+63,0,1.17,43.0,Male,Hemiplegia; Stroke
+65,0,0.98,43.8,Male,Migraine; transformatio haemorrhagica
+72,2,1.01,43.9,Female,Aphasia; transformatio haemorrhagica; Insultus ischaemicus cerebellum sin
+22,2,1.28,43.9,Male,Aphasia
+46,1,0.91,39.1,Male,Migraine
+62,3,1.01,37.8,Female,Aphasia; Stroke
+48,2,0.72,42.9,Female,Reinsultus ischaemicus cerebri in b. ACM sin
+42,1,0.76,37.3,Female,Migraine
+26,0,0.67,39.8,Female,Seizure; Dysphagia; transformatio haemorrhagica
+46,2,0.84,35.8,Female,Insultus ischaemicus cerebellum sin
+48,2,1.23,39.2,Male,Migraine; Ataxia
+76,1,1.14,45.7,Male,Headache
+63,2,0.85,39.5,Male,Aphasia; Hemiplegia
+21,3,0.87,40.2,Female,Migraine
+36,0,0.98,40.8,Female,Aphasia
+49,2,0.86,41.7,Female,Coma; Stroke; Seizure
+28,1,1.14,43.0,Male,Dysphagia; Headache
+45,1,1.34,42.8,Male,Coma
+36,2,1.08,44.5,Male,Stroke; Dysphagia
+23,1,0.78,43.7,Male,transformatio haemorrhagica
+14,1,0.7,36.0,Female,Migraine; Hemiplegia
+54,3,0.95,36.0,Female,Dysphagia; Headache; Reinsultus ischaemicus cerebri in b. ACM sin
+52,0,0.71,40.0,Female,Hemiplegia
+24,2,1.23,48.1,Male,Migraine
+21,1,1.29,45.5,Male,Ataxia; transformatio haemorrhagica; Migraine
+32,3,0.97,40.2,Female,Dysphagia; transformatio haemorrhagica
+35,3,0.86,39.2,Female,Migraine
+41,1,0.93,46.3,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Ataxia
+61,2,1.03,44.2,Female,transformatio haemorrhagica; Migraine; Insultus ischaemicus cerebellum sin
+66,1,0.75,41.1,Male,Ataxia; Stroke
+41,2,1.11,40.8,Male,Headache
+54,0,0.65,38.6,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Coma; Headache
+39,2,0.84,43.5,Female,Headache; Dysphagia
+26,0,0.79,48.6,Male,transformatio haemorrhagica
+73,3,1.05,40.6,Male,Migraine; Dysphagia
+55,3,0.79,47.6,Male,Dysphagia; Insultus ischaemicus cerebellum sin; Reinsultus ischaemicus cerebri in b. ACM sin
+37,1,0.9,47.5,Male,Hemiplegia; Migraine; Seizure
+43,1,1.25,44.8,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Coma
+53,3,0.66,40.8,Female,Migraine; Aphasia; Insultus ischaemicus cerebellum sin
+63,1,0.85,48.2,Male,Aphasia
+62,3,0.66,41.3,Female,Seizure
+53,3,1.13,47.1,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+67,1,0.87,45.4,Male,Stroke
+56,0,0.94,41.7,Male,Headache; Ataxia
+65,1,1.11,41.5,Male,Aphasia; Hemiplegia; Reinsultus ischaemicus cerebri in b. ACM sin
+27,1,0.9,43.0,Male,Dysphagia
+24,2,0.99,36.1,Female,Aphasia; transformatio haemorrhagica
+35,2,0.72,36.4,Female,Aphasia
+35,0,1.13,40.6,Male,Headache
+61,1,0.85,37.3,Female,Aphasia; transformatio haemorrhagica; Dysphagia
+44,3,1.03,41.4,Female,Stroke; Reinsultus ischaemicus cerebri in b. ACM sin
+47,1,0.7,39.2,Female,transformatio haemorrhagica; Hemiplegia
+85,2,0.94,38.7,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Headache; Hemiplegia
+72,1,0.87,37.1,Female,Hemiplegia
+74,0,0.78,42.8,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+31,0,1.01,41.0,Female,Headache
+42,2,1.11,46.3,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Headache
+41,0,0.65,40.3,Female,Migraine; Coma; Ataxia
+77,0,0.6,44.8,Female,Aphasia; transformatio haemorrhagica; Coma
+58,3,0.81,45.8,Male,Aphasia
+60,1,0.63,40.6,Female,Dysphagia
+28,1,0.86,36.0,Female,Migraine; Stroke
+84,1,0.87,41.8,Female,Stroke; Aphasia; Headache
+28,1,1.21,47.9,Male,Hemiplegia; Reinsultus ischaemicus cerebri in b. ACM sin
+58,1,0.64,36.1,Female,transformatio haemorrhagica; Migraine; Reinsultus ischaemicus cerebri in b. ACM sin
+41,2,1.06,46.9,Male,Coma; Reinsultus ischaemicus cerebri in b. ACM sin
+48,1,0.81,46.1,Male,Ataxia; Reinsultus ischaemicus cerebri in b. ACM sin; Insultus ischaemicus cerebellum sin
+41,2,0.93,43.7,Male,Coma; Dysphagia; Migraine
+17,2,1.09,42.7,Male,Headache; Aphasia
+39,2,1.04,47.1,Male,Aphasia; Stroke; Coma
+13,0,0.82,39.8,Male,Seizure; Migraine
+56,1,1.13,44.8,Male,Headache
+39,1,0.76,40.8,Female,Headache; Stroke
+32,1,0.69,44.3,Female,Seizure; Dysphagia; transformatio haemorrhagica
+27,1,0.92,44.9,Male,Ataxia
+58,3,0.83,38.8,Male,Insultus ischaemicus cerebellum sin
+41,1,1.18,45.4,Male,Insultus ischaemicus cerebellum sin
+68,1,1.2,47.9,Male,Aphasia; transformatio haemorrhagica
+38,3,0.87,36.9,Female,Ataxia; transformatio haemorrhagica
+53,3,0.96,44.6,Male,Ataxia; transformatio haemorrhagica
+66,0,0.92,42.9,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+45,3,0.73,41.8,Female,Insultus ischaemicus cerebellum sin; Aphasia; Headache
+50,1,0.72,36.0,Female,Ataxia
+25,1,1.0,40.8,Female,Insultus ischaemicus cerebellum sin
+60,0,0.72,42.8,Female,Reinsultus ischaemicus cerebri in b. ACM sin; transformatio haemorrhagica
+68,2,0.76,42.1,Female,Hemiplegia; Stroke; Migraine
+40,1,1.13,42.6,Male,Hemiplegia; Aphasia
+45,0,0.8,45.3,Male,Aphasia
+54,3,1.0,44.4,Male,Ataxia
+46,2,0.66,39.1,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Seizure
+84,3,1.12,44.0,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Stroke; Coma
+54,2,0.94,35.8,Female,Dysphagia; Stroke; Aphasia
+56,0,1.13,39.3,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+67,1,0.91,40.9,Male,Seizure; Stroke; transformatio haemorrhagica
+30,3,0.96,44.5,Female,Headache
+55,2,0.82,39.8,Male,Migraine
+32,2,0.97,42.6,Female,Ataxia; Hemiplegia
+75,1,0.82,39.2,Male,Headache; Dysphagia
+45,0,1.21,45.9,Male,Dysphagia
+69,0,1.08,47.4,Male,Hemiplegia; Headache
+56,0,0.98,40.1,Female,Hemiplegia; Headache; Ataxia
+35,1,1.07,39.6,Male,Dysphagia; Stroke
+41,3,0.88,44.0,Female,Insultus ischaemicus cerebellum sin; Aphasia
+47,0,1.1,40.7,Male,Aphasia
+42,3,0.66,42.6,Female,Hemiplegia; Dysphagia; Reinsultus ischaemicus cerebri in b. ACM sin
+32,3,0.84,45.8,Male,Insultus ischaemicus cerebellum sin; Stroke
+50,2,1.15,46.0,Male,Ataxia; Dysphagia
+70,2,1.04,42.1,Female,Aphasia; Ataxia; Coma
+74,3,1.24,42.8,Male,Aphasia; Seizure
+22,2,0.76,44.8,Female,Seizure; Reinsultus ischaemicus cerebri in b. ACM sin; Hemiplegia
+57,2,0.89,44.3,Male,transformatio haemorrhagica
+52,3,0.81,39.1,Female,Dysphagia
+45,3,0.81,45.9,Male,Aphasia; Insultus ischaemicus cerebellum sin
+42,3,0.89,42.8,Female,Ataxia; Migraine
+26,2,0.66,35.8,Female,Ataxia; Stroke; Headache
+31,3,1.01,46.4,Male,Aphasia; transformatio haemorrhagica; Dysphagia
+52,1,0.99,40.8,Female,Coma; Dysphagia
+57,3,0.78,43.3,Female,Migraine; Insultus ischaemicus cerebellum sin
+27,1,0.9,45.6,Male,Ataxia; Headache
+43,1,0.79,37.1,Female,Migraine; transformatio haemorrhagica
+55,3,0.84,43.0,Female,Aphasia; Reinsultus ischaemicus cerebri in b. ACM sin; Migraine
+41,0,1.32,43.9,Male,Headache; Stroke
+57,3,0.66,43.8,Female,Insultus ischaemicus cerebellum sin
+48,2,0.87,36.2,Female,Headache
+100,0,0.92,45.3,Male,Migraine; Dysphagia; Headache
+71,1,1.01,43.9,Male,Migraine; Ataxia
+66,3,0.94,42.1,Female,transformatio haemorrhagica; Ataxia; Dysphagia
+42,3,0.71,44.5,Female,Insultus ischaemicus cerebellum sin
+34,3,0.88,38.9,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+51,1,0.69,35.6,Female,Headache; Stroke
+47,1,1.11,43.0,Male,Insultus ischaemicus cerebellum sin; Coma; Dysphagia
+52,2,0.97,41.3,Female,Migraine; Seizure; Reinsultus ischaemicus cerebri in b. ACM sin
+56,3,0.81,43.5,Male,Ataxia; Headache; Dysphagia
+53,1,0.69,42.9,Female,Migraine
+84,2,1.02,37.2,Female,Ataxia; Insultus ischaemicus cerebellum sin
+20,2,0.72,44.3,Female,Insultus ischaemicus cerebellum sin; Coma
+56,1,1.12,38.4,Male,Aphasia; Seizure; Ataxia
+35,3,0.63,37.7,Female,Aphasia; Insultus ischaemicus cerebellum sin
+43,2,0.9,45.7,Male,transformatio haemorrhagica; Ataxia; Headache
+72,0,1.04,44.6,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Ataxia
+62,1,0.74,44.0,Female,Dysphagia; Reinsultus ischaemicus cerebri in b. ACM sin
+24,3,1.08,43.4,Male,Dysphagia
+40,3,0.78,40.5,Female,Stroke
+25,2,1.17,46.1,Male,Headache; Hemiplegia; Migraine
+41,2,0.79,43.7,Male,Ataxia; Seizure; Insultus ischaemicus cerebellum sin
+62,0,1.04,38.6,Male,Seizure; Coma; Stroke
+47,2,0.93,40.2,Female,Insultus ischaemicus cerebellum sin
+66,1,0.85,39.1,Male,Stroke; Headache; Reinsultus ischaemicus cerebri in b. ACM sin
+61,3,1.24,40.9,Male,transformatio haemorrhagica; Aphasia
+77,3,0.77,39.6,Female,Aphasia; transformatio haemorrhagica
+72,1,0.75,39.3,Female,Insultus ischaemicus cerebellum sin; Reinsultus ischaemicus cerebri in b. ACM sin; transformatio haemorrhagica
+62,0,0.99,46.1,Male,Aphasia; Migraine; Stroke
+60,2,0.99,44.1,Male,Dysphagia
+67,3,0.68,40.6,Female,Hemiplegia; Stroke; Dysphagia
+37,1,1.03,46.8,Male,Migraine; transformatio haemorrhagica; Seizure
+48,1,1.01,43.6,Female,Aphasia; Headache; Stroke
+58,0,0.8,35.8,Female,Coma
+41,1,1.16,44.4,Male,Headache
+50,2,0.62,36.9,Female,Aphasia; Headache; Coma
+39,1,0.94,46.4,Male,Aphasia; Coma; Migraine
+48,2,0.61,38.2,Female,Seizure
+58,0,1.32,43.2,Male,transformatio haemorrhagica
+48,0,1.02,35.9,Female,Ataxia; Aphasia
+50,1,0.8,37.6,Female,Coma; transformatio haemorrhagica
+40,0,0.81,44.7,Female,Dysphagia
+70,3,0.66,42.9,Female,transformatio haemorrhagica; Coma; Hemiplegia
+64,1,0.69,37.7,Female,Insultus ischaemicus cerebellum sin; Dysphagia; Aphasia
+50,2,0.89,37.9,Female,Seizure; Insultus ischaemicus cerebellum sin
+38,3,0.98,47.9,Male,Aphasia; Migraine; transformatio haemorrhagica
+47,3,0.97,46.3,Male,Aphasia; transformatio haemorrhagica
+35,2,0.94,43.0,Female,Aphasia
+73,1,0.92,47.9,Male,Coma; transformatio haemorrhagica; Ataxia
+62,1,0.68,44.1,Female,Dysphagia; Stroke; Migraine
+13,2,0.91,39.9,Female,Stroke; Reinsultus ischaemicus cerebri in b. ACM sin
+28,0,0.85,40.3,Female,Ataxia; Aphasia; Reinsultus ischaemicus cerebri in b. ACM sin
+62,3,1.01,36.2,Female,Ataxia; Reinsultus ischaemicus cerebri in b. ACM sin
+48,0,1.01,38.3,Male,Headache; Hemiplegia; Reinsultus ischaemicus cerebri in b. ACM sin
+35,1,0.88,37.3,Female,Headache
+50,0,0.83,43.3,Female,Insultus ischaemicus cerebellum sin
+84,2,0.82,46.6,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Ataxia
+36,2,0.92,40.0,Male,Migraine
+54,3,0.79,46.0,Male,Hemiplegia; Seizure; Stroke
+44,0,0.99,47.2,Male,Aphasia; Ataxia
+55,3,1.01,45.5,Male,transformatio haemorrhagica
+71,0,0.87,38.3,Male,Seizure; Reinsultus ischaemicus cerebri in b. ACM sin; Ataxia
+35,0,0.96,42.0,Male,Ataxia
+57,1,0.65,35.6,Female,Ataxia
+46,3,0.83,36.2,Female,Seizure; transformatio haemorrhagica
+34,1,1.23,41.4,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+35,3,0.77,42.9,Male,Aphasia; Ataxia; Coma
+32,1,0.86,45.4,Male,Reinsultus ischaemicus cerebri in b. ACM sin; Migraine
+58,0,0.91,48.1,Male,Hemiplegia; Migraine
+56,3,0.89,37.7,Female,Hemiplegia; Insultus ischaemicus cerebellum sin; Ataxia
+89,0,0.96,42.9,Female,Ataxia; Headache; Aphasia
+43,0,0.91,47.4,Male,Insultus ischaemicus cerebellum sin
+35,0,1.26,45.4,Male,Coma
+41,3,0.94,44.3,Female,Seizure
+53,1,1.27,47.6,Male,Migraine; Stroke
+55,0,0.79,39.6,Female,Ataxia; Headache
+21,1,0.96,41.1,Female,Dysphagia; Aphasia
+31,0,1.03,37.1,Female,Dysphagia
+43,3,0.82,36.5,Female,Seizure
+60,3,0.64,38.5,Female,Stroke; Migraine; Aphasia
+63,2,0.88,39.1,Female,Stroke
+49,0,0.96,39.1,Male,Migraine; Coma
+30,0,0.92,37.4,Female,Insultus ischaemicus cerebellum sin; Headache; Hemiplegia
+60,1,0.76,43.0,Female,Reinsultus ischaemicus cerebri in b. ACM sin
+58,2,1.23,42.9,Male,Ataxia; Stroke; Aphasia
+59,3,0.69,39.5,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Stroke
+42,2,0.79,40.0,Female,Headache; Ataxia
+54,0,0.85,36.6,Female,Reinsultus ischaemicus cerebri in b. ACM sin
+43,2,0.64,40.7,Female,transformatio haemorrhagica; Migraine; Seizure
+67,3,1.29,40.9,Male,Seizure; Reinsultus ischaemicus cerebri in b. ACM sin
+54,3,0.93,36.8,Female,transformatio haemorrhagica; Aphasia; Stroke
+61,2,1.29,40.8,Male,Dysphagia
+75,1,1.32,43.5,Male,Headache
+50,2,0.63,40.8,Female,Aphasia; Headache
+57,1,0.85,41.5,Male,Hemiplegia; Insultus ischaemicus cerebellum sin; Dysphagia
+39,2,0.89,42.9,Female,Hemiplegia
+80,2,0.6,43.8,Female,Stroke
+61,0,0.96,42.0,Female,Coma; transformatio haemorrhagica; Hemiplegia
+64,1,0.83,36.9,Female,Ataxia; Coma; Aphasia
+31,2,1.25,41.3,Male,Aphasia
+47,1,0.73,42.7,Female,Headache; Aphasia
+44,3,0.9,38.1,Female,transformatio haemorrhagica
+33,1,1.0,47.4,Male,transformatio haemorrhagica; Hemiplegia; Migraine
+77,0,0.99,43.3,Male,Reinsultus ischaemicus cerebri in b. ACM sin
+55,1,0.77,41.1,Female,Headache; Dysphagia
+67,0,0.73,38.9,Female,Dysphagia; transformatio haemorrhagica; Coma
+57,1,0.71,43.9,Female,Ataxia; Migraine; Coma
+33,2,0.66,40.7,Female,Aphasia; Hemiplegia; Reinsultus ischaemicus cerebri in b. ACM sin
+21,0,0.75,46.1,Male,Aphasia; Reinsultus ischaemicus cerebri in b. ACM sin; Coma
+47,0,0.87,40.4,Female,Aphasia; Dysphagia
+70,2,1.04,39.5,Female,Hemiplegia
+46,3,1.02,45.1,Male,Migraine
+87,3,0.64,41.9,Female,transformatio haemorrhagica
+12,0,0.87,38.3,Male,Headache; Reinsultus ischaemicus cerebri in b. ACM sin; Hemiplegia
+57,1,0.95,48.1,Male,Aphasia
+64,3,0.82,43.3,Female,transformatio haemorrhagica; Insultus ischaemicus cerebellum sin
+40,1,1.17,42.2,Male,Aphasia; Coma; Hemiplegia
+75,2,1.02,44.5,Male,Headache; Stroke
+40,1,0.92,39.9,Female,Migraine; transformatio haemorrhagica
+54,0,0.86,37.9,Female,transformatio haemorrhagica
+40,0,0.82,36.0,Female,Coma; Insultus ischaemicus cerebellum sin
+46,0,1.03,38.2,Female,transformatio haemorrhagica; Ataxia
+53,2,0.9,38.8,Male,Hemiplegia
+27,2,0.87,47.8,Male,Hemiplegia
+19,3,0.87,38.6,Male,Dysphagia; Stroke
+40,1,0.66,42.8,Female,Ataxia
+26,0,0.94,44.8,Female,Ataxia
+11,1,0.73,42.3,Female,Seizure; Migraine; Reinsultus ischaemicus cerebri in b. ACM sin
+58,2,0.75,39.2,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Coma; Aphasia
+48,0,0.86,48.6,Male,transformatio haemorrhagica
+61,1,1.24,47.3,Male,Hemiplegia; Migraine
+33,3,0.93,48.0,Male,Ataxia; Coma
+36,2,0.89,45.1,Male,Insultus ischaemicus cerebellum sin
+55,1,0.96,40.3,Male,Insultus ischaemicus cerebellum sin
+30,1,0.89,42.0,Female,Aphasia; Reinsultus ischaemicus cerebri in b. ACM sin
+65,0,0.95,39.3,Male,Migraine; transformatio haemorrhagica
+65,0,0.84,46.2,Male,Migraine; Headache; Hemiplegia
+61,2,0.99,47.6,Male,Ataxia; transformatio haemorrhagica
+59,2,0.8,40.0,Female,Migraine; Insultus ischaemicus cerebellum sin
+69,1,1.1,44.4,Male,Migraine; Insultus ischaemicus cerebellum sin
+48,2,0.69,35.5,Female,Headache; Insultus ischaemicus cerebellum sin; transformatio haemorrhagica
+58,3,0.72,35.8,Female,Coma; Dysphagia
+42,3,0.96,44.2,Female,Dysphagia; Aphasia
+43,2,0.81,38.2,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Aphasia
+68,3,1.24,42.1,Male,Stroke
+78,0,1.03,44.7,Male,Insultus ischaemicus cerebellum sin
+45,0,1.26,42.6,Male,Ataxia; Aphasia; Dysphagia
+62,2,1.14,47.9,Male,Seizure; Dysphagia
+22,3,0.71,44.0,Female,Aphasia; Stroke; Seizure
+59,3,0.67,38.1,Female,Aphasia
+30,0,1.18,47.1,Male,transformatio haemorrhagica; Headache
+32,2,0.61,41.4,Female,Hemiplegia; Coma
+60,2,0.91,42.7,Male,Coma; Insultus ischaemicus cerebellum sin
+92,0,0.73,38.0,Female,Reinsultus ischaemicus cerebri in b. ACM sin; Insultus ischaemicus cerebellum sin
+85,1,1.27,41.1,Male,Dysphagia; Stroke; Hemiplegia
+8,3,0.98,40.8,Female,Coma
+55,1,1.32,39.5,Male,Hemiplegia; Ataxia; Coma
+17,1,0.76,41.8,Female,Hemiplegia; Dysphagia
+52,1,0.95,35.5,Female,Hemiplegia; Headache; Stroke
+25,0,1.32,43.0,Male,Ataxia
+46,0,0.88,41.7,Female,transformatio haemorrhagica; Migraine
+33,2,0.66,41.5,Female,Hemiplegia; Coma
+65,2,0.78,40.4,Male,Migraine; Headache; Ataxia
+9,1,0.94,39.1,Male,Insultus ischaemicus cerebellum sin; Seizure; Hemiplegia
+64,0,0.85,46.2,Male,Insultus ischaemicus cerebellum sin; Reinsultus ischaemicus cerebri in b. ACM sin; Seizure
+59,1,0.82,43.7,Male,Insultus ischaemicus cerebellum sin; Hemiplegia
+54,3,0.8,37.7,Female,Stroke
+36,0,0.76,43.7,Female,Dysphagia; Hemiplegia
+71,2,0.89,41.7,Female,Headache
+48,0,1.07,47.0,Male,Dysphagia
+48,1,0.88,36.7,Female,Reinsultus ischaemicus cerebri in b. ACM sin
+61,2,1.28,48.6,Male,Stroke
+74,2,0.77,43.1,Male,Aphasia; Seizure; Stroke
+23,2,0.62,40.0,Female,Hemiplegia; Ataxia; Seizure
+35,0,0.83,39.8,Female,Seizure; Reinsultus ischaemicus cerebri in b. ACM sin
+56,3,0.81,39.9,Male,Stroke
+22,0,0.77,39.6,Female,Migraine; Ataxia
+70,0,0.9,42.6,Female,Headache
